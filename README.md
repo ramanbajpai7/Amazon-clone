@@ -18,7 +18,7 @@ This is a readme file for the Amazon Clone, an ecommerce website created using H
 
 ## Description
 
-The Amazon Clone is a front-end implementation of an ecommerce website. It provides users with a similar interface to browse products, view product details, add products to the cart, and simulate the checkout process. This project serves as a learning exercise to understand the fundamentals of web development using HTML and CSS.
+The Amazon Clone is a front-end implementation of an ecommerce website. It provides users with a similar interface to browse products, view product details, add products to the cart, and simulate the checkout process. This project serves as a learning exercise to understand the fundamentals of web development using HTML and CSS..
 
 ## Features
 
